@@ -1,4 +1,4 @@
-### Hi there 👋 It' Miraç Tümgör
+### Hi there 👋 It's Miraç Tümgör
 
 ## Electronic & Embedded Software Engineer
 
