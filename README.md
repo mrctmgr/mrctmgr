@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 It' Miraç Tümgör
 
+## Electronic & Embedded Software Engineer
+
+🌱 I’m currently learning C/C++ , Python
+📫 How to reach me: tumgormirac@gmail.com
 <!--
 **mrctmgr/mrctmgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
