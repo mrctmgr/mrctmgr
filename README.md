@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Miraç Tümgör
 
-## Electronic & Embedded Software Engineer
+## Electronic & Embedded Software 
 
 🌱 I’m currently learning C/C++ , Python
 
